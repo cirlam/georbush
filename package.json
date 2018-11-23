@@ -1,0 +1,17 @@
+{
+  "name": "georbush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Christopher Irlam",
+  "license": "ISC",
+  "dependencies": {
+    "all-the-cities": "^2.0.1",
+    "rbush": "^2.0.2",
+    "tape": "^4.9.1",
+    "tinyqueue": "^2.0.0"
+  }
+}
