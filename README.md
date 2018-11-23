@@ -5,6 +5,7 @@ Based on the spatial search libraries from Vladimir Agafonkin (https://github.co
 
 This is a combination of https://github.com/mourner/geoflatbush and https://github.com/mourner/rbush-knn
 
+
 Benchmark results:
 
 index 138398 points: 420.519ms
